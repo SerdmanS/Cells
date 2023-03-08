@@ -1,6 +1,6 @@
 /*
+  ver : 0.2
   author : serdar
-  version : 0.2
 */
 
 #include<stdio.h>
